@@ -1,6 +1,6 @@
 # LeetCode Solutions in Java
 
-Welcome to my **LeetCode Solutions** repository! 🚀 This repository contains my solved LeetCode problems implemented in **Java**. I aim to provide well-structured, optimized, and readable solutions with proper explanations where necessary.
+Welcome to my **LeetCode Solutions** repository! 🚀 This repository contains my solved LeetCode problems implemented in **Java**. I aim to provide well-structured, optimized, and readable solutions.
 
 ## ✨ Features
 - ✅ Clean and structured code with proper comments
