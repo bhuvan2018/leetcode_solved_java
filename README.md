@@ -1,6 +1,6 @@
 # LeetCode Solutions in Java
 
-Welcome to my **LeetCode Solutions** repository! 🚀 This repository contains my solved LeetCode problems implemented in **Java**. I aim to provide well-structured, optimized, and readable solutions.
+Welcome to my **LeetCode Solutions** repository! 🚀 This repository contains my solved LeetCode problems implemented in **Java**. I aim to provide well-structured, optimized, and readable solutions with proper explanations where necessary.
 
 ## ✨ Features
 - ✅ Clean and structured code with proper comments
@@ -11,13 +11,15 @@ Welcome to my **LeetCode Solutions** repository! 🚀 This repository contains m
 ## 🔥 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhuvan2018/leetcode_solved_java.git
+   git clone https://github.com/your-username/leetcode_solved_java.git
    ```
 2. Navigate to the desired problem category and open the Java file.
 3. Run the solution in your favorite Java environment (e.g., IntelliJ, Eclipse, VS Code).
 
 ## 🏆 Topics Covered
 - Arrays & Strings
+
+### 📌 Upcoming
 - Linked Lists
 - Trees & Graphs
 - Dynamic Programming
