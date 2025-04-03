@@ -11,7 +11,7 @@ Welcome to my **LeetCode Solutions** repository! 🚀 This repository contains m
 ## 🔥 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leetcode_solved_java.git
+   git clone https://github.com/bhuvan2018/leetcode_solved_java.git
    ```
 2. Navigate to the desired problem category and open the Java file.
 3. Run the solution in your favorite Java environment (e.g., IntelliJ, Eclipse, VS Code).
