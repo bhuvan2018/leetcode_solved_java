@@ -17,7 +17,7 @@ Welcome to my **LeetCode Solutions** repository! 🚀 This repository contains m
 3. Run the solution in your favorite Java environment (e.g., IntelliJ, Eclipse, VS Code).
 
 ## 🏆 Topics Covered
-- Arrays & Strings (soon)
+- Arrays (currently) & Strings (soon)
 
 ### 📌 Upcoming
 - Linked Lists
