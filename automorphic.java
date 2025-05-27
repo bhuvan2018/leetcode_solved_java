@@ -1,4 +1,4 @@
-import  java.util.Scanner;
+import java.util.Scanner;
 public class automorphic {
     public static boolean isAutomorphic(int num){
         int squareOfNumber=num*num;
