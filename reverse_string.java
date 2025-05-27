@@ -1,4 +1,4 @@
-class Solution {
+class reverse_string {
     public void reverseString(char[] s) {
         char[] res =new char[s.length];
         for(int i=0;i<s.length;i++) {
