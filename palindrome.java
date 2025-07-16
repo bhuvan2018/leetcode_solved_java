@@ -1,23 +1,15 @@
-import java.util.Scanner;
-public class palindrome {
-    public static String isPalindrome(int n){
+class Solution {
+    public boolean isPalindrome(int x) {
+        if(x<0){
+            return false;
+        }
         int rev=0;
-        int temp=n;
-        while(n!=0){
-            int rem=n%10;
+        int original=x;
+        while(x>0){
+            int rem=x%10;
             rev=rev*10+rem;
-            n/=10;
+            x=x/10;
         }
-        if(temp==rev){
-            return "yes";
-        } else {
-            return "no";
-        }
-    }
-    public static void main(String args[]){
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a number to check if it is a palindrome:");
-        int n=sc.nextInt();
-        System.out.println(isPalindrome(n));
+        return rev==original;
     }
 }
