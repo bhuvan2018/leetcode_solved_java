@@ -17,10 +17,8 @@ class Solution{
 public class first_unique_char_string{
     public static void main(String[] args) {
         Solution sol = new Solution();
-
         String input = "loveleetcode";
         int result = sol.firstUniqChar(input);
-
         System.out.println("First unique character index: " + result);
     }
 }
